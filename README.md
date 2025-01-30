@@ -23,7 +23,7 @@
 
 Before running the script, make sure you have the following installed:
 
-Python 3.x (Download and install from python.org)
+Python 3.x (Download and install [here](python.org))
 
 yt-dlp: A powerful YouTube video downloader
 
